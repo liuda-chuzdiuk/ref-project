@@ -1,6 +1,6 @@
 "# ref-project" 
 
-## Instalation
+## Installation
 
 Python3 must be already installed
 
