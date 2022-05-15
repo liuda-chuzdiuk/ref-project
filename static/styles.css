@@ -1,0 +1,11 @@
+#header{
+    background-color:#10284e;
+}
+
+.button,
+input[type="submit"],
+input[type="button"],
+.submit-row input,
+a.button {
+  background: #10284e;
+}
